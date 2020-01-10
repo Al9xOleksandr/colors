@@ -1,0 +1,74 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+header{
+	height:400px;
+	background: url('https://media.giphy.com/media/aE4nRDTmsOd0s/giphy.gif');
+	background-size: cover;
+		text-align: center;
+		padding-top: 40px; 
+	}
+
+	h1{
+		font-family:Helvetica, sans-serif
+		font-size: 35px;
+		color: white;
+	}
+
+	p{
+		font-family: Helvetica, sans-serif;
+		font-size: 30px;
+		text-align: center;
+		color: white;
+	}
+
+	.contentsh{
+		display:flex;
+		flex-flow: row;
+		margin: 0 auto;
+		justify-content: space-around;
+	}
+
+	.what{
+		text-align: center;
+		font-family:Helvetica, sans-serif
+		font-size: 35px;
+		color: white;
+	}
+		
+
+
+	.desing{
+		text-align: center;
+		font-family:  Helvetica, sans-serif;
+		font-size:30px;
+
+	}
+
+	.improve{
+		text-align: center;
+		font-family:Helvetica, sans-serif
+		font-size: 35px;
+		color: white;
+		
+	}
+
+	.better{
+		text-align: center;
+		font-family:  Helvetica, sans-serif;
+		font-size:30px;
+	}
+	.line{
+		color: white
+		padding:25px;
+	}
+
+	a{
+		text-align: center;
+		text-decoration: none;
+	color: white;
+	}
+
+	
